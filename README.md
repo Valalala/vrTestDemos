@@ -39,7 +39,7 @@ Tips: It is best to shoot webs perpindicular to the direction you want to go. Go
 Bugs: if you miss a building when shooting a web, it will still display a line to the last point you connected to. 
 
 ## FreeSpiderMan
-The same as Spiderman, but now the play area orientates to match the direction you are moving. Start play facing whatever forward is for your play area. I recommend getting confortable rope swinging in Spiderman before trying this.
+The same as Spiderman, but now the play area orientates to match the direction you are moving. Start play facing forward and in the center of your play area and try not to move your feet. I recommend getting confortable rope swinging in Spiderman before trying this.
 
 ![freespiderman](freespiderman.gif)
 
